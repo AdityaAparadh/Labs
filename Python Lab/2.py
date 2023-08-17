@@ -1,5 +1,3 @@
-#Aditya Aparadh     22610082    S3
-#Program to print name and age
 print("Enter Name")
 name = input()
 print("Enter Age")
