@@ -1,3 +1,5 @@
+#Aditya Aparadh     22610082    S3
+#Program to check if given string is a Palindrome
 inpt = input()
 i=0
 isPalindrome = True
