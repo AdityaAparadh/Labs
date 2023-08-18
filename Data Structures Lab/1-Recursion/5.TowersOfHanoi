@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-void Hanoi(int n, char Start, char End, char Temp){
-
-    
-
-}
