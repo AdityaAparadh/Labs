@@ -1,3 +1,5 @@
+#Aditya Aparadh     22610082    S3
+#Program to print days in Years, Weeks, Days
 print("Input number of days")
 d = input()
 days = int(d)
