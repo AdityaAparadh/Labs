@@ -11,19 +11,21 @@ void push(int x){
     }
 }
 
-void pop(){
+int pop(){
     if(stackPointer != -1){
+        int temp = stack[stackPointer];
         stack[stackPointer--] = 0;
+        return temp;
     }else{
         printf("Stack UNDERFLOW");
     }
+    return NULL;
 }
 
 int main(){
-    push(69);
-    push(420);
+    push(11);
+    push(42);
     push(88);
-    pop();
     pop();
     pop();
     pop();
