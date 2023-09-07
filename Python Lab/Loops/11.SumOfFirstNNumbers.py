@@ -1,7 +1,7 @@
 #Aditya Aparadh     22610082    S3
 #Program to calculate sum of first n natural numbers
 
-n = int(input())
+n = int(input("Enter a number to calculate sum to it:"))
 i=1
 sum=0
 while(i<=n):

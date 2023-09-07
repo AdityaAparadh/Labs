@@ -2,7 +2,7 @@
 #Program to print odd numbers from 1 to n 
 
 i=1
-n= int(input())
+n= int(input("Enter a number n to print odd numbers to:"))
 
 while i < n:
     print(i)

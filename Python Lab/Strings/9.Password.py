@@ -24,7 +24,7 @@ def Length(s):
     return False
 
 
-a = input()
+a = input("Enter a password:")
 if(uppercase(a) and lowercase(a) and nums(a) and Length(a)):
     print("Valid Password")
 else:
