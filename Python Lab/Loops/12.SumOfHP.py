@@ -1,7 +1,7 @@
 #Aditya Aparadh     22610082    S3
 #Program to calculate sum of inverse of first n natural numbers
 
-n = int(input())
+n = int(input("Enter a number upto which sum of inverse is to be calculated:"))
 i=1
 sum=0
 while(i<=n):
